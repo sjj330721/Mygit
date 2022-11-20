@@ -1,5 +1,5 @@
-# Mygit
+# Tracker
 https://github.com/ngosang/trackerslist
-# Mygit
+# IPTV
 https://github.com/iptv-org/iptv
 
