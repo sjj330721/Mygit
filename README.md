@@ -8,3 +8,5 @@ https://github.com/NiceVPN123/NiceVPN
 v2rayN：https://github.com/2dust/v2rayN/releases
 # Android版本
 v2rayNG：https://github.com/2dust/v2rayNG/releases
+# LIVE
+https://github.com/fanmingming/live
