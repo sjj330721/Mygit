@@ -10,3 +10,5 @@ v2rayN：https://github.com/2dust/v2rayN/releases
 v2rayNG：https://github.com/2dust/v2rayNG/releases
 # LIVE
 https://github.com/fanmingming/live
+# Legado
+https://github.com/aoaostar/legado
