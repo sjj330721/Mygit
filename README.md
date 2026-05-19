@@ -12,3 +12,5 @@ v2rayNG：https://github.com/2dust/v2rayNG/releases
 https://github.com/fanmingming/live
 # Legado
 https://github.com/aoaostar/legado
+# GKD
+https://github.com/topics/gkd-subscription
