@@ -2,7 +2,7 @@
 https://github.com/ngosang/trackerslist
 # IPTV
 https://github.com/iptv-org/iptv
-#IPTV 查询
+# IPTV 查询
 http://www.foodieguide.com/iptvsearch/
 # VPN
 https://github.com/NiceVPN123/NiceVPN
