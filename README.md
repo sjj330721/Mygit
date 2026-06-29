@@ -14,3 +14,5 @@ v2rayNG：https://github.com/2dust/v2rayNG/releases
 https://github.com/aoaostar/legado
 # GKD
 https://github.com/topics/gkd-subscription
+# LTSC
+https://github.com/adavak/win_iso_build/releases
